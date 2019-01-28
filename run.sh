@@ -1,0 +1,1 @@
+docker run -p 8089:9001 tetrika.etherpad
