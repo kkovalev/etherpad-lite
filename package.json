@@ -1,0 +1,7 @@
+{
+  "name": "etherpad-lite",
+  "dependencies": {
+    "ep_copy_paste_images": "0.0.14",
+    "ep_tables2": "^0.3.0"
+  }
+}
